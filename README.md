@@ -1,8 +1,11 @@
-<p align="center">
-  <a href="https://github.com/PoirierRomain">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/poirier-romain0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+# Romain Poirier
+
+Recent **ENSEEIHT** graduate in **Computer Science**  
+Seeking **R&D Engineer** roles in **Computer Vision & Deep Learning**
+
+## Contact
+- Email: romain2002.poirier@gmail.com  
+- LinkedIn: [linkedin.com/in/poirier-romain0](https://www.linkedin.com/in/poirier-romain0/)  
+- GitHub: [github.com/PoirierRomain](https://github.com/PoirierRomain)  
+
+![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoirierRomain&show_icons=true&hide_title=true&count_private=true&theme=dark)
