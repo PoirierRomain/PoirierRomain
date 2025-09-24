@@ -1,7 +1,7 @@
 # Romain Poirier
 
 Recent **ENSEEIHT** graduate in **Computer Science**  
-Passionate about advancing AI, seeking Engineer roles in Research AI, Computer Vision, Deep Learning, and Generative Models to develop impactful solutions.
+Passionate about advancing AI, seeking Engineer roles in Research AI / Computer Vision / Generative Models to develop impactful solutions.
 
 ## Contact
 - Email: romain2002.poirier@gmail.com  
